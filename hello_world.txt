@@ -1,0 +1,2 @@
+add some text, save it, add it to staging area
+save with command S 
